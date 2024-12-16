@@ -1,0 +1,8 @@
+# ninja log v5
+6	437	7560497536507185	build.ninja	2b59fbf98d3609cf
+1	668	7560494814043099	CMakeFiles/interfejs_USB.dir/main.cpp.obj	5d0a1af8fbb053ff
+672	977	7560494817079766	interfejs_USB.exe	58714163a435c553
+5	2497	7560512554736611	CMakeFiles/interfejs_USB.dir/main.cpp.obj	5d0a1af8fbb053ff
+2501	2728	7560512557006785	interfejs_USB.exe	58714163a435c553
+7	2659	7560513911017148	CMakeFiles/interfejs_USB.dir/main.cpp.obj	5d0a1af8fbb053ff
+2661	2853	7560513912903381	interfejs_USB.exe	58714163a435c553

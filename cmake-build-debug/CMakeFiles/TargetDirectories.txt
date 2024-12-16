@@ -1,0 +1,3 @@
+C:/Users/mateu/interfejs-USB/cmake-build-debug/CMakeFiles/interfejs_USB.dir
+C:/Users/mateu/interfejs-USB/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/mateu/interfejs-USB/cmake-build-debug/CMakeFiles/rebuild_cache.dir
